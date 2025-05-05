@@ -24,4 +24,4 @@ Este repositório contém:
 Você pode visualizar o currículo e demais arquivos diretamente neste repositório. Caso queira clonar o projeto:
 
 ```bash
-git clone https://github.com/RuMeLz/NOME_DO_REPOSITORIO.git
+git clone https://github.com/RuMeLz/HTML.git
